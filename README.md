@@ -1,1 +1,1 @@
-Flask survey app with two versions
+Flask survey app with two versions.
